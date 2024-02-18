@@ -8,7 +8,7 @@ import Experience from './components/Experience'
 const App = () => {
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
       <Greet />
       <About />
       <Experience />
